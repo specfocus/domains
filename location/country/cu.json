@@ -1,0 +1,64 @@
+{
+  "values": [
+    {
+      "name": "Camagüey",
+      "country": "CU"
+    },
+    {
+      "name": "Ciego de Ávila",
+      "country": "CU"
+    },
+    {
+      "name": "Cienfuegos",
+      "country": "CU"
+    },
+    {
+      "name": "La Habana",
+      "country": "CU"
+    },
+    {
+      "name": "Bayamo",
+      "country": "CU"
+    },
+    {
+      "name": "Guantánamo",
+      "country": "CU"
+    },
+    {
+      "name": "Holguín",
+      "country": "CU"
+    },
+    {
+      "name": "Isla de La Juventud",
+      "country": "CU"
+    },
+    {
+      "name": "Las Tunas",
+      "country": "CU"
+    },
+    {
+      "name": "Matanzas",
+      "country": "CU"
+    },
+    {
+      "name": "Ciudad de La Habana",
+      "country": "CU"
+    },
+    {
+      "name": "Pinar del Río",
+      "country": "CU"
+    },
+    {
+      "name": "Sancti Spíritus",
+      "country": "CU"
+    },
+    {
+      "name": "Santiago de Cuba",
+      "country": "CU"
+    },
+    {
+      "name": "Santa Clara",
+      "country": "CU"
+    }
+  ]
+}

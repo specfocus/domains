@@ -1,0 +1,84 @@
+{
+  "values": [
+    {
+      "name": "Ashmore and Cartier Islands",
+      "country": "AU"
+    },
+    {
+      "name": "Australian Antarctic Territory",
+      "country": "AU"
+    },
+    {
+      "short": "ACT",
+      "name": "Australian Capital Territory",
+      "country": "AU"
+    },
+    {
+      "short": "CX",
+      "name": "Christmas Island",
+      "country": "AU"
+    },
+    {
+      "short": "CC",
+      "name": "Cocos Islands",
+      "alt": [
+        "Keeling Islands"
+      ],
+      "country": "AU"
+    },
+    {
+      "name": "Coral Sea Islands",
+      "country": "AU"
+    },
+    {
+      "short": "HM",
+      "name": "Heard Island and McDonald Islands",
+      "country": "AU"
+    },
+    {
+      "short": "JBT",
+      "name": "Jervis Bay Territory",
+      "country": "AU"
+    },
+    {
+      "short": "NSW",
+      "name": "New South Wales",
+      "country": "AU"
+    },
+    {
+      "short": "NF",
+      "name": "Norfolk Island",
+      "country": "AU"
+    },
+    {
+      "short": "NT",
+      "name": "Northern Territory",
+      "country": "AU"
+    },
+    {
+      "short": "QLD",
+      "name": "Queensland",
+      "country": "AU"
+    },
+    {
+      "short": "SA",
+      "name": "South Australia",
+      "country": "AU"
+    },
+    {
+      "short": "TAS",
+      "name": "Tasmania",
+      "country": "AU"
+    },
+    {
+      "short": "VIC",
+      "name": "Victoria",
+      "country": "AU"
+    },
+    {
+      "short": "WA",
+      "name": "Western Australia",
+      "country": "AU"
+    }
+  ]
+}

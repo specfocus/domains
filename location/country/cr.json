@@ -1,0 +1,34 @@
+{
+  "type": "string",
+  "variant": "CR",
+  "values": [
+    {
+      "name": "San José",
+      "country": "CR"
+    },
+    {
+      "name": "Alajuela",
+      "country": "CR"
+    },
+    {
+      "name": "Cartago",
+      "country": "CR"
+    },
+    {
+      "name": "Heredia",
+      "country": "CR"
+    },
+    {
+      "name": "Guanacaste",
+      "country": "CR"
+    },
+    {
+      "name": "Puntarenas",
+      "country": "CR"
+    },
+    {
+      "name": "Limón",
+      "country": "CR"
+    }
+  ]
+}

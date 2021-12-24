@@ -1,0 +1,60 @@
+{
+  "values": [
+    {
+      "short": "ANT",
+      "name": "Antwerpen",
+      "country": "BE"
+    },
+    {
+      "short": "HAI",
+      "name": "Henegouwen",
+      "country": "BE",
+      "alt": [
+        "Hainaut"
+      ]
+    },
+    {
+      "short": "LIE",
+      "name": "Luik",
+      "country": "BE",
+      "alt": [
+        "Liège"
+      ]
+    },
+    {
+      "short": "LIM",
+      "name": "Limburg",
+      "country": "BE"
+    },
+    {
+      "short": "LUX",
+      "name": "Luxemburg",
+      "country": "BE"
+    },
+    {
+      "short": "NAM",
+      "name": "Namen",
+      "country": "BE"
+    },
+    {
+      "short": "OVL",
+      "name": "Oost-Vlaanderen",
+      "country": "BE"
+    },
+    {
+      "short": "VBR",
+      "name": "Vlaams-Brabant",
+      "country": "BE"
+    },
+    {
+      "short": "WBR",
+      "name": "Waals-Brabant",
+      "country": "BE"
+    },
+    {
+      "short": "WVL",
+      "name": "West-Vlaanderen",
+      "country": "BE"
+    }
+  ]
+}

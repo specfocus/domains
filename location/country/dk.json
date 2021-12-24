@@ -1,0 +1,24 @@
+{
+  "values": [
+    {
+      "name": "Hovedstaden",
+      "country": "DK"
+    },
+    {
+      "name": "Midtjylland",
+      "country": "DK"
+    },
+    {
+      "name": "Nordjylland",
+      "country": "DK"
+    },
+    {
+      "name": "Sjælland",
+      "country": "DK"
+    },
+    {
+      "name": "Syddanmark",
+      "country": "DK"
+    }
+  ]
+}
