@@ -1,0 +1,6 @@
+{
+  "format": "date",
+  "include": ["past"],
+  "mask": "yyyy-MM-dd",
+  "type": "string"
+}

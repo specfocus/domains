@@ -1,0 +1,138 @@
+{
+  "type": "string",
+  "values": {
+    "acceleration": {
+      "base": "velocity",
+      "per": "time"
+    },
+    "amount-of-substance": {
+      "unit": "mole"
+    },
+    "area": {
+      "base": "length",
+      "dimensions": 2
+    },
+    "electric-charge": {
+      "unit": "coulomb",
+      "symbol": "C"
+    },
+    "electric-charge-density": {
+      "base": "electric-charge",
+      "per": "volume"
+    },
+    "electric-current": {
+      "unit": "ampere",
+      "symbol": "A"
+    },
+    "electric-field-strength": {
+      "base": "electric-potential-difference",
+      "per": "length"
+    },
+    "electric-flux-density": {
+      "base": "electric-potential-difference",
+      "per": "area"
+    },
+    "electric-potential-difference": {
+      "unit": "volt",
+      "symbol": "V"
+    },
+    "electric-resistance": {
+      "unit": "ohm"
+    },
+    "energy-density": {
+      "base": "quantity-of-heat",
+      "per": "volume"
+    },
+    "force": {
+      "unit": "newton",
+      "symbol": "N"
+    },
+    "frequency": {
+      "unit": "hertz",
+      "symbol": "Hz"
+    },
+    "inductance": {
+      "unit": "henry",
+      "symbol": "H"
+    },
+    "length": {
+      "unit": "meter",
+      "symbol": "m"
+    },
+    "luminous-intensity": {
+      "unit": "candela",
+      "symbo": "cd"
+    },
+    "luminance": {
+      "base": "luminous-intensity",
+      "per": "area"
+    },
+    "mass": {
+      "unit": "gram",
+      "symbol": "g"
+    },
+    "mass-density": {
+      "base": "mass",
+      "per": "volume"
+    },
+    "magnetic-flux": {
+      "unit": "weber",
+      "symbol": "Wb"
+    },
+    "magnetic-flux-density": {
+      "unit": "tesla",
+      "symbol": "T"
+    },
+    "mass-fraction": {
+      "base": "mass",
+      "per": "mass",
+      "symbol": "1"
+    },
+    "plane-angle": {
+      "unit": "radian",
+      "symbol": "rad"
+    },
+    "pressure": {
+      "base": "force",
+      "per": "area",
+      "unit": "pascal",
+      "symbol": "Pa"
+    },
+    "quantity-of-heat": {
+      "base": [
+        "force",
+        "length"
+      ],
+      "unit": "joule",
+      "symbol": "J"
+    },
+    "radiant-flux": {
+      "unit": "watt",
+      "symbol": "W"
+    },
+    "solid-angle": {
+      "unit": "steradian",
+      "symbol": "sr"
+    },
+    "thermodynamic-temperature": {
+      "unit": "kelvin",
+      "symbol": "K"
+    },
+    "time": {
+      "unit": "second",
+      "symbol": "s"
+    },
+    "velocity": {
+      "base": "length",
+      "per": "time"
+    },
+    "volume": {
+      "base": "length",
+      "dimensions": 3
+    },
+    "wave": {
+      "base": "length",
+      "reciprocal": "-1"
+    }
+  }
+}

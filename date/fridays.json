@@ -1,0 +1,6 @@
+{
+  "format": "date",
+  "include": ["friday"],
+  "mask": "yyyy-MM-dd",
+  "type": "string"
+}

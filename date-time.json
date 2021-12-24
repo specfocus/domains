@@ -1,0 +1,5 @@
+{
+  "format": "date-time",
+  "mask": "yyyy-MM-dd HH:mm:ss",
+  "type": "string"
+}
